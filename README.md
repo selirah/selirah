@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **prinzeedward@gmail.com**
 
-- 📄 Know about my experiences. View my (https://docs.google.com/document/d/11B6xGJX14K6Y1ZV_3P8iwzi63I5NlC9FuVY-ggLQRr0/edit?usp=drive_link)[Resume]
+- 📄 Know about my experiences. View my [Resume](https://docs.google.com/document/d/11B6xGJX14K6Y1ZV_3P8iwzi63I5NlC9FuVY-ggLQRr0/edit?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
