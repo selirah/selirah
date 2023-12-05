@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/selirah" target="blank"><img src="https://img.shields.io/twitter/follow/selirah?logo=twitter&style=for-the-badge" alt="selirah" /></a> </p>
 
-- 💬 Ask me about **React, JavaScript, TypeScript, C++, PHP, Laravel**
+- 💬 Ask me about **React, JavaScript, TypeScript, C++, PHP, Laravel, Python**
 
 - 📫 How to reach me **prinzeedward@gmail.com**
 
-- 📄 Know about my experiences. View my [https://docs.google.com/document/d/11B6xGJX14K6Y1ZV_3P8iwzi63I5NlC9FuVY-ggLQRr0/edit?usp=drive_link](Resume)
+- 📄 Know about my experiences. View my (https://docs.google.com/document/d/11B6xGJX14K6Y1ZV_3P8iwzi63I5NlC9FuVY-ggLQRr0/edit?usp=drive_link)[Resume]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
