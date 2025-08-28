@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/selirah" target="blank"><img src="https://img.shields.io/twitter/follow/selirah?logo=twitter&style=for-the-badge" alt="selirah" /></a> </p>
 
-- 💬 Ask me about **Python, JavaScript, TypeScript, Node.js, Google Cloud Console, MongoDB, PostgreSQL, AI Agents with LLMs**
+- 💬 Ask me about **Building AI Agents with LLMs**
 
 - 📫 How to reach me **prinzeedward@gmail.com**
 
