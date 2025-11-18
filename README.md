@@ -65,7 +65,7 @@ I mentor teams toward craftsmanship and maintain a high engineering bar.
 
 ## 💻 Featured Repositories
 
-### **1. Fullstack Demo — FastAPI + React + Docker**  
+### **1. Fullstack Demo — FastAPI + Docker**  
 https://github.com/selirah/docker-container-setup-with-fastapi-and-mongodb 
 A dockerized container setup using fastapi and mongodb.
 
