@@ -1,55 +1,87 @@
-<h1 align="center">Hi 👋, I'm Edward Selirah</h1>
-<h3 align="center">Passionate Full Stack Engineer | Building Scalable Apps with Python, JavaScript, TypeScript, Node.js, Google Cloud Console, MongoDB, PostgreSQL, and AI Agents with LLMs</h3>
+# 👋 Hi, I’m Edward — Fullstack Tech Lead & Systems Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=selirah&label=Profile%20views&color=0e75b6&style=flat" alt="selirah" /> </p>
+I design and build **scalable, reliable, production-grade systems** across healthcare, AI, and enterprise platforms.  
+My experience spans fullstack engineering, system architecture, cloud infrastructure, and technical leadership.
 
-<p align="left"> <a href="https://twitter.com/selirah" target="blank"><img src="https://img.shields.io/twitter/follow/selirah?logo=twitter&style=for-the-badge" alt="selirah" /></a> </p>
+I specialize in taking products from **MVP → stable, performant, production-ready platforms** used by thousands.
 
-- 💬 Ask me about **Building AI Agents with LLMs**
+---
 
-- 📫 How to reach me **prinzeedward@gmail.com**
+## 🚀 Core Focus Areas
+- Fullstack Architecture (React, Next.js, Python, FastAPI, Node.js)  
+- High-Performance Backend Services  
+- Scalable Frontend Systems (TypeScript, React)  
+- Cloud Infrastructure (GCP, AWS, Azure)  
+- AI Integrations (OpenAI, Claude, Gemini, Deepgram, ElevenLabs)  
+- CI/CD, Docker, DevOps Automation  
+- Code Quality, Mentorship, Engineering Leadership  
 
-- 📄 Know about my experiences. View my [Resume](https://docs.google.com/document/d/11B6xGJX14K6Y1ZV_3P8iwzi63I5NlC9FuVY-ggLQRr0/edit?usp=drive_link)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/_lazyProgrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="selirah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/edward-selirah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edward-selirah" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/edward_dev2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="edward_dev2020" height="30" width="40" /></a>
-</p>
+## 🧠 Engineering Philosophy
+Great engineering is built on:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Added explicit icons for requested skills -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <!-- Optional AI/LLM custom badge -->
-  <a href="https://openai.com/research" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/AI%20Agents-LLMs-blueviolet?style=for-the-badge&logo=openai" alt="ai-agents" height="30"/> 
-  </a>
-</p>
+- **Modularity** — Clean boundaries, predictable behavior  
+- **Reliability** — Resilient systems with observability and fault tolerance  
+- **Usability** — UX-first experiences that feel intuitive and responsive  
+- **Maintainability** — Clear patterns, documentation, and test coverage  
+- **Scalability** — Designed for growth, not future rewrites  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selirah&show_icons=true&locale=en&layout=compact" alt="selirah" /></p>
+I mentor teams toward craftsmanship and maintain a high engineering bar.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selirah&show_icons=true&locale=en" alt="selirah" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selirah&" alt="selirah" /></p>
+## 📌 Selected Work
+
+### 🟦 **Prospera Labs — AI Agents Platform**  
+**Tech Lead • Python • FastAPI • React • LLMs**  
+**Public site:** https://www.prosperalabs.ai/  
+- Architected AI-driven agent workflows using Python, FastAPI, React, and LLM orchestration  
+- Built integrations for email, SMS, voice, and third-party APIs  
+- Optimized for 10,000+ monthly interactions and **99.9% uptime**  
+- *(Product may have evolved over time)*
+
+---
+
+### 🟧 **Vaurse — Voscard Product**  
+**Team Lead • Next.js • TypeScript**  
+**Public site:** https://vaurse.com/  
+- Led engineering of major frontend systems  
+- Improved performance, UX, and component architecture  
+- Mentored engineers and established strong coding standards  
+- *(Product may have evolved over time)*
+
+---
+
+### 🟩 **mNotify — Messaging & Voice Platforms**  
+**Fullstack Developer • JavaScript • REST APIs**  
+**Public site:** https://www.mnotify.com/  
+- Contributed to bulk messaging workflows and voice communication systems  
+- Developed APIs and UI workflows, improved cross-browser performance  
+- Increased reliability and user satisfaction  
+- *(Product may have evolved over time)*
+
+---
+
+## 💻 Featured Repositories
+
+### **1. Fullstack Demo — FastAPI + React + Docker**  
+https://github.com/selirah/docker-container-setup-with-fastapi-and-mongodb 
+A production-style example showing my architectural patterns, folder structure, and best practices.
+
+### **2. React UI Component Library (TypeScript)**  
+https://github.com/selirah/shadcn-component-widgets
+Reusable UI components with clean architecture and strong typing.
+
+### **3. AI Tools & LLM Integrations**  
+https://github.com/selirah/reusable-openai-integration-and-provider
+Utilities for chat orchestration, voice pipelines, prompt routing, and agent workflows.
+
+---
+
+## 📫 Contact
+- **Email:** prinzeedward@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/edward-selirah  
+- Open to full-time roles, technical leadership positions, and impactful early-stage teams.  
+
+---
