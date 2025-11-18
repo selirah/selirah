@@ -67,15 +67,17 @@ I mentor teams toward craftsmanship and maintain a high engineering bar.
 
 ### **1. Fullstack Demo — FastAPI + React + Docker**  
 https://github.com/selirah/docker-container-setup-with-fastapi-and-mongodb 
-A production-style example showing my architectural patterns, folder structure, and best practices.
+A dockerized container setup using fastapi and mongodb.
 
 ### **2. React UI Component Library (TypeScript)**  
 https://github.com/selirah/shadcn-component-widgets
-Reusable UI components with clean architecture and strong typing.
+Reusable UI widgets built on top of shadcn ui components with clean architecture and strong typing.
 
 ### **3. AI Tools & LLM Integrations**  
 https://github.com/selirah/reusable-openai-integration-and-provider
-Utilities for chat orchestration, voice pipelines, prompt routing, and agent workflows.
+Utility for OpenAI integration
+
+Other private repositories are available upon request.
 
 ---
 
