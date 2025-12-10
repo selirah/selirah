@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Edward — Fullstack Tech Lead & Systems Engineer
+# 👋 Hi, I’m Edward — Software, AI, Tech Lead & Systems Engineer
 
 I design and build **scalable, reliable, production-grade systems** across healthcare, AI, and enterprise platforms.  
 My experience spans fullstack engineering, system architecture, cloud infrastructure, and technical leadership.
